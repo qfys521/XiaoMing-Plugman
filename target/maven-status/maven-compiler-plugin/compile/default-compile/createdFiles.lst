@@ -1,0 +1,4 @@
+cn/qfys521/Plugman/PlugmanPlugin.class
+cn/qfys521/Plugman/Interactors/PlugmanHelp.class
+cn/qfys521/Plugman/Interactors/PluginInfo.class
+cn/qfys521/Plugman/Interactors/PluginReload.class
